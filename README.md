@@ -11,11 +11,9 @@ Ve složce *server* je soubor *db-export.sql*, který slouží k naimportování
 
 ```
 praxe-kalkulacka		- Kořenová složka
-|   .gitattributes		- Soubor Githubu
 |   index.php			- Hlavní soubor, zobrazí se uživateli
 |   README.md			- README soubor
 |   
-+---.git				- Složka Githubu
 +---class				- Složka pro soubory s třídami
 |   .htaccess			- .htacccess znemožňující přístup uživateli do složky
 |   formError.class.php	- Třída FormError
