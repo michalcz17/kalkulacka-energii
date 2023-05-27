@@ -1,9 +1,9 @@
 <?php
 
-$database["hostname"] = "localhost";
-$database["database"] = "praxe";
-$database["username"] = "praxe";
-$database["password"] = "fjrpzZeZ3QqvzOxO";
+$database["hostname"] = "";
+$database["database"] = "";
+$database["username"] = "";
+$database["password"] = "";
 
 $mysqli = new mysqli($database["hostname"], $database["username"], $database["password"], $database["database"]);
 
